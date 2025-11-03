@@ -11,7 +11,7 @@ Ces arguments principaux sont :
 
 Les lignes suivantes importent les couches d'information spatiales situées dans le fichier [geopackage](https://www.geopackage.org/) **lot.gpkg**.
 
-```{r}
+```{r 03-types-de-cartes-1}
 library(sf)
 # import des communes du Lot
 com <- st_read("data/lot.gpkg", layer = "communes", quiet = TRUE)

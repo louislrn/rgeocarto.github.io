@@ -7,7 +7,7 @@ Pour être finalisée, une carte thématique doit contenir certains éléments a
 
 Les lignes suivantes importent les couches d'information spatiales situées dans le fichier [geopackage](https://www.geopackage.org/) **lot.gpkg**.
 
-```{r}
+```{r 04-mise-en-page-1}
 library(sf)
 # import des communes du Lot
 com <- st_read("data/lot.gpkg", layer = "communes", quiet = TRUE)
@@ -186,7 +186,7 @@ mf_layout(
 ## Cadre
 
 La fonction `mf_frame()` permet de reajouter un cadre autour de la carte. 
-```{r}
+```{r frame}
 mf_map(com)
 mf_title("Le Lot")
 mf_frame(lty = 2)

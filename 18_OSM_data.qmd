@@ -67,7 +67,7 @@ L'argument `place` correspond au nom du fichier **\*.pbf** accessible sur le sit
 
 Nous nous intéressons ici à l'ensemble des équipements (clef **amenity**) enregistrés dans la base OSM sous forme de points en Andorre. 
 
-```{r}
+```{r 18-OSM-data-1}
 library(osmextract)
 osm_pt <- oe_get(place = "Andorra",      
                  layer = "points", 
@@ -77,13 +77,13 @@ osm_pt <- oe_get(place = "Andorra",
 
 Des équipements de nature très variés sont saisis dans OSM: 
 
-```{r}
+```{r 18-OSM-data-2}
 unique(osm_pt$amenity)
 ```
 
 Nous allons maintenant sélectionner les bars, cafés, pubs et restaurants et les visualiser sur une carte interactive. 
 
-```{r}
+```{r 18-OSM-data-3}
 #| fig-format: png
 poi <- c("bar", "cafe", "pub", "restaurant")
 osm_pt <- osm_pt[osm_pt$amenity %in% poi, ]

@@ -70,7 +70,7 @@ Les couches proposées sont les suivantes :
   - les étendues d'eau
 
 Le package n'est pas sur le CRAN. Pour l'installer :
-```{r}
+```{r install_maposm}
 #| eval: false
 install.packages("maposm", repos = "https://riatelab.r-universe.dev")
 ```
@@ -78,7 +78,7 @@ install.packages("maposm", repos = "https://riatelab.r-universe.dev")
 `om_get()` est utilisé pour télécharger, fusionner et simplifier les couches géographiques.
 `om_map()` peut être utilisé pour cartographier les couches.
 
-```{r}
+```{r display_maposm}
 #| message: false
 library(maposm)
 coords <- com_raw[com_raw$NOM_COM == "Cahors", ] |>

@@ -17,7 +17,7 @@ mat[1:5,1:5]
 
 La fonction `st_area()` permet de calculer des superficies. 
 
-```{r}
+```{r 08-mesures-sf-1}
 st_area(com[1:5, ])
 ```
 
@@ -27,7 +27,7 @@ Le package `units` [@R-units] permet de définir et convertir facilement des uni
 Le package peut se révéler assez utile quand nous manipulons différentes unités de mesures régulièrement. 
 
 
-```{r}
+```{r 08-mesures-sf-2}
 library(units)
 
 distances <- c(1, 2, 3, 5, 0.5)

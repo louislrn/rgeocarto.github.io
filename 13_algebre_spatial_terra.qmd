@@ -19,7 +19,7 @@ Les opérations locales concernent les calculs réalisés indépendamment sur un
 
 ### Remplacement de valeur
 
-```{r}
+```{r 13-algebre-spatial-terra-1}
 #| include: false
 library(terra)
 elev <- rast("data/elev.tif") 

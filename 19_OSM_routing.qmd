@@ -6,13 +6,7 @@
 <img src="img/logo_valh.png"  width="120"/>  &nbsp;
 <img src="img/valhalla_logo.svg" width="120"/>
 
-Les packages `osrm` [@R-osrm] et `valh` [@R-valh] permettent d'obtenir des matrices de temps et de distances, 
-des itinéraires routiers et des isochrones.
-
-
-<img src="img/logo_osrm.svg" align="right" width="120"/> &nbsp;
-
-
+Les packages `osrm` [@R-osrm] et `valh` [@R-valh] permettent d'obtenir des matrices de temps et de distances, des itinéraires routiers et des isochrones.
 
 Ces packages servent d'interface entre R et les services de calculs
 d'itinéraires [OSRM](http://project-osrm.org/) [@luxen-vetter-2011] et [Valhala](https://valhalla.github.io/valhalla/) [@Valhalla] respectivement. Ces deux services utilisent les données de la base de données OpenStreetMap. 

@@ -51,7 +51,7 @@ book:
   open-graph: true
   chapters:
     - index.qmd
-    - part: "**Les données vectorielles : le package sf**"
+    - part: "**Les données vectorielles**"
       chapters: 
         - 01_package_sf.qmd
         - 02_import_sf.qmd
@@ -61,7 +61,7 @@ book:
         - 06_selection_jointure_spatiale_sf.qmd
         - 07_operation_geom_sf.qmd
         - 08_mesures_sf.qmd
-    - part: "**Les données raster : le package terra**"
+    - part: "**Les données raster**"
       chapters: 
         - 09_package_terra.qmd
         - 10_import_terra.qmd

@@ -261,5 +261,5 @@ mf_title("Distribution de la population dans le Lot (2018)")
 
 
 :::{.callout-note}
-Vous pouvez utiliser le fichier **exo_cartographie_simple.R** pour vous guider dans cette exercice.   
+Vous pouvez utiliser le fichier **exo_cartographie_simple.R** pour vous guider dans cet exercice.
 :::

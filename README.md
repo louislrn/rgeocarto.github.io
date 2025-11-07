@@ -9,7 +9,7 @@ aux Systèmes d'Information Géographique, et cela dans un environnement favorab
 
 Ce manuel est destiné tant aux utilisateurs de R souhaitant mettre en place des 
 traitements de données spatiales qu'aux utilisateurs souhaitant utiliser R 
-pour réaliser les taches qu'ils réalisent habituellement avec un SIG.
+pour réaliser les tâches qu'ils réalisent habituellement avec un SIG.
 
 
 **Contribution et feedback**  

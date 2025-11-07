@@ -15,7 +15,7 @@ Les packages utilisent des serveurs de démonstration par défaut. En cas d'util
 
 
 ## Calcul d'un itinéraire
-Les fonction `osrmRoute()` et `vl_route()` permettent de calculer des itinéraires.
+Les fonctions `osrmRoute()` et `vl_route()` permettent de calculer des itinéraires.
 ```{r osrmroute}
 #| out-width: "75%"
 #| cache: false

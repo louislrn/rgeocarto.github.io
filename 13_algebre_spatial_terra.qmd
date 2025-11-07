@@ -250,7 +250,7 @@ head(elev_by_com, n = 6)
 
 ### Opération zonale à partir d'un raster
 
-Les opérations zonales peuvent être réalisées par zone délimitée par les valeurs catégorielles d'un second raster avec la fonction `zonal()`. **Pour cela, les deux rasters doivent avoir exactement le même étendue et la même résolution**.
+Les opérations zonales peuvent être réalisées par zone délimitée par les valeurs catégorielles d'un second raster avec la fonction `zonal()`. **Pour cela, les deux rasters doivent avoir exactement la même étendue et la même résolution**.
 
 ```{r op_zonal_3,}
 # Élévation moyenne pour chaque zone de clc

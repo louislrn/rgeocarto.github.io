@@ -65,7 +65,7 @@ Les couches proposées sont les suivantes :
   - les bâtiments
   - les espaces verts
   - les routes principales
-  - les outes secondaires
+  - les routes secondaires
   - les voies ferrées
   - les étendues d'eau
 

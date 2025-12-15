@@ -33,7 +33,7 @@ sur le [dépôt GitHub](https://github.com/rgeocarto/rgeocarto.github.io/) de ce
 <!-- Un deuxième manuel centré sur la cartographie est disponible ici : -->
 <!-- [Cartographie avec R](https://rcarto.github.io/cartographie_avec_r/). -->
 
-**Voir aussi en anglais : **
+**Voir aussi : **
 
 ::: {layout="[[1,1,1,1,1], [0,1,1,1,0]]"}
 
@@ -44,6 +44,8 @@ sur le [dépôt GitHub](https://github.com/rgeocarto/rgeocarto.github.io/) de ce
 
 
 [![Spatial Data Science with R and "terra" - @hijmans](img/r3.png)](https://rspatial.org/)
+
+[![Briques de Géomatique - @passy](img/brique.png)](https://briques-de-geomatique.readthedocs.io)
 
 :::
 

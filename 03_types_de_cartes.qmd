@@ -259,7 +259,3 @@ mf_title("Distribution de la population dans le Lot (2018)")
 5. Créer une carte de la part de la population active dans la population totale.  
   Quel mode de représentation utiliser? Quels choix cela implique-t-il?
 
-
-:::{.callout-note}
-Vous pouvez utiliser le fichier **exo_cartographie_simple.R** pour vous guider dans cet exercice.
-:::

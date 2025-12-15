@@ -511,7 +511,3 @@ mf_title("Le Lot dans le Monde!")
 
 9. Comment rendre la carte plus intelligible ? Allez-y !
 
-
-:::{.callout-note}
-Vous pouvez utiliser le fichier **exo_cartographie_mise_en_page.R** pour vous guider dans cet exercice.
-:::

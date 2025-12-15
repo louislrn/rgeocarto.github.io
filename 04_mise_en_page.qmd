@@ -513,5 +513,5 @@ mf_title("Le Lot dans le Monde!")
 
 
 :::{.callout-note}
-Vous pouvez utiliser le fichier **exo_cartographie_mise_en_page.R** pour vous guider dans cette exercice.   
+Vous pouvez utiliser le fichier **exo_cartographie_mise_en_page.R** pour vous guider dans cet exercice.
 :::

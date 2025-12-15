@@ -51,7 +51,7 @@ Associées aux fonctions de représentation des données d’autres fonctions so
 - [How to create faceted maps](https://riatelab.github.io/mapsf/#/vignettes/how_to_create_faceted_maps)
 - [How to create inset maps](https://riatelab.github.io/mapsf/#/vignettes/how_to_create_inset_maps)
 - [How to export maps](https://riatelab.github.io/mapsf/#/vignettes/how_to_export_maps)
-- [How to use a custom font family](hhttps://riatelab.github.io/mapsf/#/vignettes/how_to_use_a_custom_font_family)
+- [How to use a custom font family](https://riatelab.github.io/mapsf/#/vignettes/how_to_use_a_custom_font_family)
 - [How to use themes](https://riatelab.github.io/mapsf/#/vignettes/how_to_use_themes)
 
 ## Exercice {.unnumbered}

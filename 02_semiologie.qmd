@@ -38,7 +38,7 @@ Voici quelques ouvrages et ressources pour l'apprentissage de la cartographie th
 
 ## Exercice {.unnumbered}
 
-Comment représenter les variables suivantes :
+Comment représenter les variables suivantes ?
 
   * Une population communale
   * Un age médian par département

@@ -1,9 +1,7 @@
 project:
   type: book
   output-dir: docs
-  resources: 
-    - "geodata.zip"
-    - "Exercices.html"
+
 execute: 
   freeze: auto
 
@@ -31,7 +29,7 @@ book:
       orcid: 0000-0001-5679-6536
       url: https://rcarto.github.io
       affiliation:
-          name: RIATE (CNRS)
+          name: Centre pour l’analyse spatiale et la géovisualisation - RIATE (CNRS)
           url: https://riate.cnrs.fr
     - name: Hugues Pecout
       orcid: 0000-0002-0246-0954

@@ -50,5 +50,5 @@ route_gramat
 
 1. Importez la couche des communes et celle des restaurants du Lot.
 
-2. Réaliser une jointure spatiale pour connaître pour chaque restaurant le nom et l'identifiant de la commune dans laquelle il se trouve. 
+2. Réalisez une jointure spatiale pour connaître pour chaque restaurant le nom et l'identifiant de la commune dans laquelle il se trouve. 
 
